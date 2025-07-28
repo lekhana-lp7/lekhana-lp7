@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lekhana-lp7
-- 👀 I’m interested in AI and Machine Learning
+- 👀 I’m interested in AI and Machine Learning and UI/UX Design
 - 🌱 I’m currently learning Data Science
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ”The best way to predict the future is to invent it.”
